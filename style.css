@@ -1,0 +1,21 @@
+/*
+Theme Name: Duena-Child
+Theme URI: 
+Author: Duena Studio
+Author URI: http://profiles.wordpress.org/duena_studio
+Template: Duena
+
+Duena WordPress theme, Copyright (C) 2013 Duena Studio
+Duena WordPress theme is licensed under the GPL.
+*/
+
+@import url("../duena/style.css");
+
+a {
+  color: #000;
+}
+
+a:hover,
+a:focus {
+  color: #777;
+}
