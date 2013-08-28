@@ -53,6 +53,7 @@
 			    		<?php endif; ?>
 
 					</div><!-- #content -->
+					
 				</div><!-- #primary -->
 			</div>
 		</div>
